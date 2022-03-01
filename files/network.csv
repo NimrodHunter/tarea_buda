@@ -1,0 +1,10 @@
+code,color,links
+A,Blanco,B
+B,Blanco,"A,C"
+C,Blanco,"B,D,G"
+D,Blanco,"C,E"
+E,Blanco,"D,F"
+F,Blanco,"E,I"
+G,Verde,"C,H"
+H,Rojo,"G,I"
+I,Verde,"H,F"
