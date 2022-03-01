@@ -4,4 +4,5 @@ Algoritmo que encuentra la menor ruta desde el punto x al y, recorriendo una red
 
 ## Run
 - npm install
+- npm run build
 - npm run app
